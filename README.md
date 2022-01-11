@@ -46,7 +46,11 @@ Participants will spend the day across multiple workshops led by DEI firms and l
 ## How it will be built <a name="built"></a>
 <img width="945" alt="Screen Shot 2022-01-08 at 1 40 47 PM" src="https://user-images.githubusercontent.com/9143339/149013653-1b6a6e8d-3935-4871-8007-2621ee43650c.png">
 
-ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changed in the communities they sought to solve for. The MIT study astrutley observed that tech solutions must engage with the ecosystem beforre designing for solutions. As a result, this open source initiative addresses solutions from the constituent, implementation, and OSS maintainership lens. We'll dive deeper in yoour enablement packets, here are some frameworks to familiarize yourself if you'd like a head start. 
+ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changed in the communities they sought to solve for. 
+
+The MIT study astrutley observed that tech solutions must engage with the ecosystem before designing for solutions. Goals between CivTech, understanding of bureaucratic processes and leading by the impacted group leads to results that fall short of the vision is often due a lack of communication. [MIT GOVLAB](https://mitgovlab.org/news/is-civic-tech-fulfilling-its-promise/) found “government bureaucratic norms are understudied”.
+   
+As a result, this open source initiative addresses solutions from the constituent, implementation, and OSS maintainership lens. We'll dive deeper in yoour enablement packets, here are some frameworks to familiarize yourself if you'd like a head start. 
    
 
 ### What are the skillsets and stack? <a name="skills"></a>
