@@ -50,7 +50,11 @@ ProgramEquity Hacks brings the community informed design to an open source workf
    
 
 ### What are the skillsets and stack? <a name="skills"></a>
-   
-### Choose your track with your team 
-**Teams and Groups**
-**Implementation or Enhancement**
+
+### How we work together 
+Coordinators willl be there to support in 4 hour shifts. Participants will be participating from 8 am to 4 pm pt. 
+
+**Pod Teams and Groups**
+ <img width="1114" alt="Screen Shot 2022-01-11 at 12 23 45 PM" src="https://user-images.githubusercontent.com/9143339/149015895-011540da-9f9b-4ad7-8068-cdd1d2c8ad36.png">
+
+**Choose a Track with your team**
