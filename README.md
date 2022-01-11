@@ -126,4 +126,5 @@ Coordinators willl be there to support in 4 hour shifts. Participants will be pa
  <img width="1114" alt="Screen Shot 2022-01-11 at 12 23 45 PM" src="https://user-images.githubusercontent.com/9143339/149015895-011540da-9f9b-4ad7-8068-cdd1d2c8ad36.png">
 
 **Choose a Track with your team**
+During the hackathon, after team set up - you can colle
 
