@@ -40,7 +40,7 @@ _In the 7th generation prophecy of Turtle island (now known as the United States
 ### What are we Solving
 Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient.
 
-Our goal is to digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design enhancement. 
+Our goal is to digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design enhancement. If you'd like to explore workflows using your skillset: 
 
 <p align="center">
 <img width="628" alt="Screen Shot 2022-01-11 at 12 01 50 PM" src="https://user-images.githubusercontent.com/9143339/149012851-e91095a8-d563-4777-a61c-ae249b0a3a84.png">
