@@ -3,7 +3,7 @@
 https://user-images.githubusercontent.com/9143339/149009550-2df99c70-9b54-4743-8585-2a1b60e89e53.mp4
 
 
-# Dare to Dream 
+# ProgramEquity Hackathon 
 Our goal is to build out a platform, called Amplify, that will help digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design ideation.
 
 Collaborate on familiar workflows you would at work but at a hackathon that brings the world together - ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours. 40 advocacy groups and Indigenous led land trusts. Unified climate action.
