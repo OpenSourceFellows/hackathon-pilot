@@ -36,6 +36,7 @@ Sign Up
 Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. 
 
 _In the 7th generation prophecy of Turtle island (now known as the United States), we will be given a choice. By the light of the Seventh Fire come the Ogichidaag', those who would use their power and strength with wisdom and gentleness to bring harmony and balance. They will soar with wabishkie ginu', the White Eagle, bringing the wisdom of Spirit with the first light of day. They will learn of their power and strength like the gidzhii makwa' the Great Bear who holds ice and snow in the North so the Earth would not be covered with water. And they will open their mind and heart like makinaak' the turtle who offered his back upon which to build a new earth._
+
 <img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/149010727-8b773896-0925-42e3-81f8-2d4a6dd1b9d7.png">
 
 ### What are we Solving
