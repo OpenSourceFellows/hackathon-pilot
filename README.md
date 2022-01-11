@@ -22,12 +22,8 @@ Code in a way that brings the world together - ProgramEquity Hackathons are driv
   - Choose your track with your team 
 - FAQ 
 
-
-Implemetation 
-Enhancement 
-
 ## Why do we Dare to Dream? <a name="dream"></a>
-<img width="362" alt="Screen Shot 2022-01-05 at 7 32 39 PM" src="https://user-images.githubusercontent.com/9143339/149012116-33018b4d-cbef-4c30-98a1-e30dac524b17.png">
+<img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
 
 ## Story
 
