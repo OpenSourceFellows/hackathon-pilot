@@ -50,6 +50,7 @@ ProgramEquity Hacks brings the community informed design to an open source workf
    
 
 ### What are the skillsets and stack? <a name="skills"></a>
+<p align="center">
 <table>
   <tr>
    <td>
@@ -116,6 +117,7 @@ ProgramEquity Hacks brings the community informed design to an open source workf
    </td>
   </tr>
 </table>
+</p>
 
 ### How we work together 
 Coordinators willl be there to support in 4 hour shifts. Participants will be participating from 8 am to 4 pm pt. 
