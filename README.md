@@ -131,6 +131,7 @@ Coordinators willl be there to support in 4 hour shifts. Participants will be pa
 
 **Choose a Track with your team**
 During the hackathon, after pod team set up - you can collectively decide which track you would like to participate within the hackathon: implementation or improvement 
+
 _Implementation_: 
 There will be issues and tasks that are written out and scoped starting from 'good first issue' to intermediate across the different skillsets 
 
