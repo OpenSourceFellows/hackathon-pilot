@@ -113,7 +113,7 @@ ProgramEquity Hacks brings the community informed design to an open source workf
    </td>
    <td><a href="https://codeql.github.com/">CodeQL</a>, <a href="https://github.com/features/codespaces">Codespaces</a>
    </td>
-   <td>Secrets, Permissions, Dependabot
+   <td>[Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets), Permissions, [Dependabot](https://github.com/dependabot)
    </td>
   </tr>
 </table>
