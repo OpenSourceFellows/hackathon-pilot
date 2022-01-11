@@ -48,7 +48,8 @@ Our goal is to digitally transform advocacy led by marginalized communities on T
 <img width="628" alt="Screen Shot 2022-01-11 at 12 01 50 PM" src="https://user-images.githubusercontent.com/9143339/149012851-e91095a8-d563-4777-a61c-ae249b0a3a84.png">
 
 ### Program Highlights 
-Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lend of a community informed design framework
+Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lend of a community informed design framework. Full agenda attached iin team set up. 
+   
 <img width="594" alt="Screen Shot 2022-01-11 at 2 14 34 PM" src="https://user-images.githubusercontent.com/9143339/149029955-cd6bbfe2-0fb2-4084-88ba-de0d8934cd97.png">
 
 ## How it will be built <a name="built"></a>
