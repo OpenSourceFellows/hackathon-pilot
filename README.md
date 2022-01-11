@@ -4,12 +4,13 @@ https://user-images.githubusercontent.com/9143339/149009550-2df99c70-9b54-4743-8
 
 
 # Dare to Dream 
-Code in a way that brings the world together - ProgramEquity Hackathons are driven and designed through community dialogue. 9 hours. 40 advocacy groups and Indigenous led land trusts. Unified climate action.
+Our goal is to build out a platform, called Amplify, that will help digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design ideation.
 
+Collaborate on familiar workflows you would at work but at a hackathon that brings the world together - ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours. 40 advocacy groups and Indigenous led land trusts. Unified climate action.
 <img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
 
 ### Table of Contents
-- Sign Up 
+Sign Up 
    - As a coordinator: [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4)
    - As a [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
    
@@ -45,18 +46,23 @@ Our goal is to digitally transform advocacy led by marginalized communities on T
 <p align="center">
 <img width="628" alt="Screen Shot 2022-01-11 at 12 01 50 PM" src="https://user-images.githubusercontent.com/9143339/149012851-e91095a8-d563-4777-a61c-ae249b0a3a84.png">
 
-### Schedule for the day 
+### Program Highlights 
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lend of a community informed design framework
 <img width="594" alt="Screen Shot 2022-01-11 at 2 14 34 PM" src="https://user-images.githubusercontent.com/9143339/149029955-cd6bbfe2-0fb2-4084-88ba-de0d8934cd97.png">
 
 ## How it will be built <a name="built"></a>
 <img width="945" alt="Screen Shot 2022-01-08 at 1 40 47 PM" src="https://user-images.githubusercontent.com/9143339/149013653-1b6a6e8d-3935-4871-8007-2621ee43650c.png">
 
-ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changed in the communities they sought to solve for. 
-
-The MIT study astutley observed that tech solutions must engage with the ecosystem before designing for solutions. Goals between CivTech, understanding of bureaucratic processes and leading by the impacted group leads to results that fall short of the vision is often due a lack of communication. [MIT GOVLAB](https://mitgovlab.org/news/is-civic-tech-fulfilling-its-promise/) found “government bureaucratic norms are understudied”.
+ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changed in the communities they sought to solve for. The MIT study astutley observed that tech solutions must engage with the ecosystem before designing for solutions. Goals between CivTech, understanding of bureaucratic processes and leading by the impacted group leads to results that fall short of the vision is often due a lack of communication. [MIT GOVLAB](https://mitgovlab.org/news/is-civic-tech-fulfilling-its-promise/) found “government bureaucratic norms are understudied”.
    
+### Community Informed Design Explained 
 As a result, this open source initiative addresses solutions from the constituent, implementation, and OSS maintainership lens. We'll dive deeper in yoour enablement packets, here are some frameworks to familiarize yourself if you'd like a head start. 
+   - Our **first layer** of defining the problem looks at the pain points of users (these workshops will be provided throughout the day)
+     - User advocacy research via [MERL ](https://merltech.org/)
+     - Data protection and compliance through [PII](https://www.red-gate.com/simple-talk/devops/data-privacy-and-protection/introduction-to-devops-security-privacy-and-compliance/)
+     - Person informed design via [TrueNorth](https://www.truenorthedi.com/how-we-work.html)
+   - Our **second layer** focuses on implementation and orchestrates things via a [DevSecOps workflow](https://github.com/learn/devops)
+   - Our **third layer** focuses on the sustainability and security of the project on open source through an [MVG framework ](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/)
    
 
 ### What are the skillsets and stack? <a name="skills"></a>
