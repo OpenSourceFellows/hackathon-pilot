@@ -50,6 +50,72 @@ ProgramEquity Hacks brings the community informed design to an open source workf
    
 
 ### What are the skillsets and stack? <a name="skills"></a>
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>Stack
+   </td>
+   <td>Foundational Tools
+   </td>
+  </tr>
+  <tr>
+   <td>📄 Technical Documentation
+   </td>
+   <td>Markdown
+   </td>
+   <td>Docs, Wikis
+   </td>
+  </tr>
+  <tr>
+   <td>🎨 UI/UX Design
+   </td>
+   <td>CSS, HTML
+   </td>
+   <td>Figma
+   </td>
+  </tr>
+  <tr>
+   <td>🖼 Frontend
+   </td>
+   <td>Vuetify, BootsrapVue
+   </td>
+   <td>Figma, GitHub flow
+   </td>
+  </tr>
+  <tr>
+   <td>⚙️ Backend
+   </td>
+   <td>NPM, Postregres, VueJS
+   </td>
+   <td>GitHub flow, ORM, Knex
+   </td>
+  </tr>
+  <tr>
+   <td>🔍 QA & Testing
+   </td>
+   <td>Typescript, YAML
+   </td>
+   <td>Test linters
+   </td>
+  </tr>
+  <tr>
+   <td>🔏 DevOps
+   </td>
+   <td>YAML
+   </td>
+   <td><a href="https://github.com/features/actions">Actions</a>, <a href="https://www.heroku.com/continuous-integration">CI/CD Heroku</a>
+   </td>
+  </tr>
+  <tr>
+   <td>🏗 AppSec/Architecture
+   </td>
+   <td><a href="https://codeql.github.com/">CodeQL</a>, <a href="https://github.com/features/codespaces">Codespaces</a>
+   </td>
+   <td>Secrets, Permissions, Dependabot
+   </td>
+  </tr>
+</table>
 
 ### How we work together 
 Coordinators willl be there to support in 4 hour shifts. Participants will be participating from 8 am to 4 pm pt. 
@@ -58,3 +124,4 @@ Coordinators willl be there to support in 4 hour shifts. Participants will be pa
  <img width="1114" alt="Screen Shot 2022-01-11 at 12 23 45 PM" src="https://user-images.githubusercontent.com/9143339/149015895-011540da-9f9b-4ad7-8068-cdd1d2c8ad36.png">
 
 **Choose a Track with your team**
+
