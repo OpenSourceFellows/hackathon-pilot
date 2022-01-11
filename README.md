@@ -12,7 +12,7 @@ Code in a way that brings the world together - ProgramEquity Hackathons are driv
 - Sign Up 
    - As a coordinator: mentor, support
    - As a participant
-- What is the significance of Dare to Dream?
+- <a name="dream"> What is the significance of Dare to Dream?</a>
   - Story 
   - What are we solving
   - Schedule for the Day 
@@ -28,7 +28,7 @@ Code in a way that brings the world together - ProgramEquity Hackathons are driv
 Implemetation 
 Enhancement 
 
-## Why do we Dare to Dream?
+## Why do we Dare to Dream? <a name="dream"></a>
 
 Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. 
 
