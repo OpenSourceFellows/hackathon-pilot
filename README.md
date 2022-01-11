@@ -10,17 +10,22 @@ Code in a way that brings the world together - ProgramEquity Hackathons are driv
 
 ### Table of Contents
 - Sign Up 
-   - As a coordinator: mentor, support
-   - As a participant
--[What is the significance of Dare to Dream?](#dream)
+   - As a coordinator: [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4)
+   - As a [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
+   
+[What is the significance of Dare to Dream?](#dream)
   - Story 
   - What are we solving
   - Schedule for the Day 
-- [How it will be built](#built)
+
+
+[How it will be built](#built)
   - ProgramEquity Hacks Overview 
   - Skillsets and Stack
   - Choose your track with your team 
-- FAQ 
+
+
+[FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
 ## Why do we Dare to Dream? <a name="dream"></a>
 <img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
