@@ -12,7 +12,7 @@ Code in a way that brings the world together - ProgramEquity Hackathons are driv
 - Sign Up 
    - As a coordinator: mentor, support
    - As a participant
-- <a name="dream"> What is the significance of Dare to Dream?</a>
+-  [What is the significance of Dare to Dream?](#dream)
   - Story 
   - What are we solving
   - Schedule for the Day 
@@ -23,7 +23,7 @@ Code in a way that brings the world together - ProgramEquity Hackathons are driv
 - FAQ 
 
 
- - What are the skillsets and stack?
+ - What are the skillsets and stack? <a name="dream"></a>
 
 Implemetation 
 Enhancement 
