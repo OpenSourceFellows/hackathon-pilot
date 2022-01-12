@@ -1,6 +1,6 @@
 ### Table of Contents
 Sign Up 
-   - As a [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4], [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
+   - As a [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4), [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
    
 Story 
   - What are we solving
@@ -10,7 +10,9 @@ Story
   - Teams and Prizes
   - Skillsets and Stack
   - Schedule for the Day 
+  
 [What are our Goals?](#dream)
+
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
 <img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
@@ -22,14 +24,15 @@ https://user-images.githubusercontent.com/9143339/149073963-9e8960b2-7bc7-4058-9
 
 
 
-[Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the Amplify platform to accomodate more than 40+ advocacy groups based in sustainability. 
+[Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. 
+
+Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the [Amplify platform](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to accomodate more than 40+ advocacy groups based in sustainability.
 
 <p align="center">
 <img width="570" alt="Screen Shot 2022-01-11 at 9 45 09 PM" src="https://user-images.githubusercontent.com/9143339/149070951-063ed2a7-c895-443f-b384-a04c21e4ed6c.png">
    
 Sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
-
-
+ 
 
 
 ## Challenge: 
@@ -111,8 +114,11 @@ Participants will be attending from 8 am to 5 pm pt. Your pod team is your home 
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
    
  ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
- 
+
+
 ### Schedule Day of 
+
+<p align="center">
 <table>
   <tr>
    <td><strong>(all times in PT)</strong>
@@ -248,10 +254,7 @@ Lunch
   </tr>
 </table>
 
-
-
-
-<img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/149010727-8b773896-0925-42e3-81f8-2d4a6dd1b9d7.png">
+</p>
 
 ## What are our goals? <a name="dream"></a>
 <img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
