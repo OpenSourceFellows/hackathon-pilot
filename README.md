@@ -56,11 +56,11 @@ Participants will be attending from 8 am to 5 pm pt. Your pod team is your home 
    </td>
   </tr>
   <tr>
-   <td>📄 Technical Documentation
+   <td>📄 PM and Technical Documentation
    </td>
-   <td>Markdown
+   <td>Markdown, Agile methodology
    </td>
-   <td>Docs, Wikis
+   <td>Docs, Wikis, Issues, Project Boards
    </td>
   </tr>
   <tr>
