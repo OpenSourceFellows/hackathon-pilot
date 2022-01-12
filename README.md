@@ -1,5 +1,5 @@
 ### Table of Contents
-Sign Up as a [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4), [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
+Sign Up as a [leads](https://docs.google.com/forms/d/15Pzwar_tct5Zpan2nW3iTNuRFqi1Juk2jm6p8zCZs8c/edit, [participant](https://forms.gle/RMS6Q18xQVUkCHS56)
    
 Story 
   - [What are we solving](#story)
