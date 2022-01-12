@@ -8,7 +8,6 @@ Sign Up
   - What are we solving
   - Schedule for the Day 
 
-
 [How it will be built](#built)
   - ProgramEquity Hacks Overview 
   - Skillsets and Stack
@@ -21,27 +20,7 @@ Sign Up
 # ProgramEquity Hackathon 
 ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. Collaborate on familiar workflows you would at work but at a hackathon that brings the world together - 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action.
 
-**Challenge:** Take the Amplify app to the next level so its robust enough to go from supporting ~40 advocacy groups to hundreds across civic rights and sustanability. You can choose to join either the ideation or implementation challenge. Ideation tracks will focus on discussions suggesting features based off of the advocacy research gathered by ProgramEquity. Implementation tracks will be able to get started on issues and tasks that are predefined. 
-
-
-## What are our goals? <a name="dream"></a>
-<img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
-
-<img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
-
-## Story
-Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the Amplify platform to accomodate more than 40+ advocacy groups based in sustainability. 
-
-https://user-images.githubusercontent.com/9143339/149009550-2df99c70-9b54-4743-8585-2a1b60e89e53.mp4
-
-Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
-
-<img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/149010727-8b773896-0925-42e3-81f8-2d4a6dd1b9d7.png">
-
-### Program Highlights 
-Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
-   
- ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
+https://user-images.githubusercontent.com/9143339/149073963-9e8960b2-7bc7-4058-90cc-6cd4d156785d.mp4
 
 ### What are we Solving
 Our goal is to digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks is designed to gather  has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design enhancement. If you'd like to explore workflows using your skillset: 
@@ -49,25 +28,17 @@ Our goal is to digitally transform advocacy led by marginalized communities on T
 <p align="center">
 <img width="570" alt="Screen Shot 2022-01-11 at 9 45 09 PM" src="https://user-images.githubusercontent.com/9143339/149070951-063ed2a7-c895-443f-b384-a04c21e4ed6c.png">
 
-**Challenges:**
+## Challenge: 
 
-**Prizes**
+Take the Amplify app to the next level so its robust enough to go from supporting ~40 advocacy groups to hundreds across civic rights and sustanability. You can choose to join either the ideation or implementation challenge. Ideation tracks will focus on discussions suggesting features based off of the advocacy research gathered by ProgramEquity. Implementation tracks will be able to get started on issues and tasks that are predefined. 
+
+### Challenge Tracks
    
-## How it will be built <a name="built"></a>
-ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changes because research focused on the constituent and forgot to consider the community the constituent was a part of. As a result, this open source initiative addresses solutions as ecosystems including the constituent, Advocacy experts, DevSecOps architects, and OSS maintainership lens as part of a Community Informed Design framework which extends beyond Human Centered design - the missing inigredient specified by [MIT Studies](https://mitgovlab.org/news/is-civic-tech-fulfilling-its-promise/)
-
-
-<p align="center">
-<img width="727" alt="Screen Shot 2022-01-11 at 9 54 42 PM" src="https://user-images.githubusercontent.com/9143339/149072221-26a47477-bf61-4873-8194-61a8dd66b76e.png">
+### Setting up teams 
+Participants will be attending from 8 am to 5 pm pt. Your pod team is your home base and your skillset support is a wider resource net.
+<img width="1114" alt="Screen Shot 2022-01-11 at 12 23 45 PM" src="https://user-images.githubusercontent.com/9143339/149078429-280ef07c-0292-45ce-892e-b19fddbacdfe.png">
 
    
-
-
-The MIT study astutley observed that tech solutions must engage with the ecosystem before designing for solutions. Goals between CivTech, understanding of bureaucratic processes and leading by the impacted group leads to results that fall short of the vision is often due a lack of communication. [MIT GOVLAB]() 
-   
-
-
-
 ### What are the skillsets and stack? <a name="skills"></a>
 <p align="center">
 <table>
@@ -138,12 +109,48 @@ The MIT study astutley observed that tech solutions must engage with the ecosyst
 </table>
 </p>
 
+## What are our goals? <a name="dream"></a>
+<img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
+
+<img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
+
+## Story
+Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the Amplify platform to accomodate more than 40+ advocacy groups based in sustainability. 
+
+
+Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
+
+<img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/149010727-8b773896-0925-42e3-81f8-2d4a6dd1b9d7.png">
+
+### Program Highlights 
+Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
+   
+ ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
+
+
+**Challenges:**
+
+**Prizes**
+   
+## How it will be built <a name="built"></a>
+ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changes because research focused on the constituent and forgot to consider the community the constituent was a part of. As a result, this open source initiative addresses solutions as ecosystems including the constituent, Advocacy experts, DevSecOps architects, and OSS maintainership lens as part of a Community Informed Design framework which extends beyond Human Centered design - the missing inigredient specified by [MIT Studies](https://mitgovlab.org/news/is-civic-tech-fulfilling-its-promise/)
+
+
+<p align="center">
+<img width="727" alt="Screen Shot 2022-01-11 at 9 54 42 PM" src="https://user-images.githubusercontent.com/9143339/149072221-26a47477-bf61-4873-8194-61a8dd66b76e.png">
+
+   
+
+
+The MIT study astutley observed that tech solutions must engage with the ecosystem before designing for solutions. Goals between CivTech, understanding of bureaucratic processes and leading by the impacted group leads to results that fall short of the vision is often due a lack of communication. [MIT GOVLAB]() 
+   
+
+
+
+
+
 ### How we work together 
-Coordinators will be there to support in 4 hour shifts. Participants will be participating from 8 am to 4 pm pt.
 
-
-**Pod Teams and Groups**
- <img width="1114" alt="Screen Shot 2022-01-11 at 12 23 45 PM" src="https://user-images.githubusercontent.com/9143339/149015895-011540da-9f9b-4ad7-8068-cdd1d2c8ad36.png">
 
 
 ### Community Informed Design Explained 
