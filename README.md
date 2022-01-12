@@ -57,7 +57,7 @@ Participants will spend the day across multiple workshops led by DEI firms and l
 ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changed in the communities they sought to solve for. The MIT study astutley observed that tech solutions must engage with the ecosystem before designing for solutions. Goals between CivTech, understanding of bureaucratic processes and leading by the impacted group leads to results that fall short of the vision is often due a lack of communication. [MIT GOVLAB](https://mitgovlab.org/news/is-civic-tech-fulfilling-its-promise/) found “government bureaucratic norms are understudied”.
    
 ### Community Informed Design Explained 
-As a result, this open source initiative addresses solutions as ecosystems ranging from the constituent, Advocacy experts, DevSecOps architects, and OSS maintainership lens. We'll dive deeper in yoour enablement packets, here are some frameworks to familiarize yourself if you'd like a head start. 
+As a result, this open source initiative addresses solutions as ecosystems ranging from the constituent, Advocacy experts, DevSecOps architects, and OSS maintainership lens. 
    - Our **first layer** of defining the problem looks at the pain points of users (these workshops will be provided throughout the day)
      - User advocacy research via [MERL ](https://merltech.org/)
      - Data protection and compliance through [PII](https://www.red-gate.com/simple-talk/devops/data-privacy-and-protection/introduction-to-devops-security-privacy-and-compliance/)
