@@ -32,6 +32,7 @@ Sign Up
 <img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
 
 ## Story
+Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient.
 
 Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. 
 
@@ -40,9 +41,7 @@ _In the 7th generation prophecy of Turtle island (now known as the United States
 <img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/149010727-8b773896-0925-42e3-81f8-2d4a6dd1b9d7.png">
 
 ### What are we Solving
-Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient.
-
-Our goal is to digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design enhancement. If you'd like to explore workflows using your skillset: 
+Our goal is to digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks is designed to gather  has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design enhancement. If you'd like to explore workflows using your skillset: 
 
 <p align="center">
 <img width="628" alt="Screen Shot 2022-01-11 at 12 01 50 PM" src="https://user-images.githubusercontent.com/9143339/149012851-e91095a8-d563-4777-a61c-ae249b0a3a84.png">
