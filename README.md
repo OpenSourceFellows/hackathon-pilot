@@ -2,9 +2,9 @@
 
 
 # ProgramEquity Hackathon 
-Our goal is to build out a platform, called Amplify, that will help digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design ideation.
+ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. Collaborate on familiar workflows you would at work but at a hackathon that brings the world together - 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action.
 
-Collaborate on familiar workflows you would at work but at a hackathon that brings the world together - ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours. 40 advocacy groups and Indigenous led land trusts. Unified climate action.
+**Challenge:** Take the Amplify app to the next level so its robust enough to go from supporting ~40 advocacy groups to hundreds across civic rights and sustanability. You can choose to join either the ideation or implementation challenge. Ideation tracks will focus on discussions suggesting features based off of the advocacy research gathered by ProgramEquity. Implementation tracks will be able to get started on issues and tasks that are predefined. 
 
 ### Table of Contents
 Sign Up 
