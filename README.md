@@ -18,11 +18,10 @@ Sign Up
 <img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
 
 # ProgramEquity Hackathon 
-ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. Collaborate on familiar workflows you would at work but at a hackathon that brings the world together - 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action.
+ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action.
 
 https://user-images.githubusercontent.com/9143339/149073963-9e8960b2-7bc7-4058-90cc-6cd4d156785d.mp4
 
-### What are we Solving
 <p align="center">
 <img width="570" alt="Screen Shot 2022-01-11 at 9 45 09 PM" src="https://user-images.githubusercontent.com/9143339/149070951-063ed2a7-c895-443f-b384-a04c21e4ed6c.png">
 
