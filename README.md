@@ -1,9 +1,6 @@
 <img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
 
 
-https://user-images.githubusercontent.com/9143339/149009550-2df99c70-9b54-4743-8585-2a1b60e89e53.mp4
-
-
 # ProgramEquity Hackathon 
 Our goal is to build out a platform, called Amplify, that will help digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design ideation.
 
@@ -33,6 +30,8 @@ Sign Up
 
 ## Story
 Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient.
+
+https://user-images.githubusercontent.com/9143339/149009550-2df99c70-9b54-4743-8585-2a1b60e89e53.mp4
 
 Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. 
 
