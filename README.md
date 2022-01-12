@@ -28,14 +28,15 @@ Sign Up
 ## What our goals? <a name="dream"></a>
 <img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
 
+<img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
+
 ## Story
 Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the Amplify platform to accomodate more than 40+ advocacy groups based in sustainability. 
 
 https://user-images.githubusercontent.com/9143339/149009550-2df99c70-9b54-4743-8585-2a1b60e89e53.mp4
 
-Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. 
+Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
 
-_In the 7th generation prophecy of Turtle island (now known as the United States), we will be given a choice. By the light of the Seventh Fire come the Ogichidaag', those who would use their power and strength with wisdom and gentleness to bring harmony and balance. They will soar with wabishkie ginu', the White Eagle, bringing the wisdom of Spirit with the first light of day. They will learn of their power and strength like the gidzhii makwa' the Great Bear who holds ice and snow in the North so the Earth would not be covered with water. And they will open their mind and heart like makinaak' the turtle who offered his back upon which to build a new earth._
 
 <img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/149010727-8b773896-0925-42e3-81f8-2d4a6dd1b9d7.png">
 
