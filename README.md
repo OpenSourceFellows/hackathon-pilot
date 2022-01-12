@@ -75,7 +75,7 @@ Participants will be attending from 8 am to 5 pm pt. Your pod team is your home 
    </td>
   </tr>
   <tr>
-   <td>⚙️ Backend
+   <td>🗂 Backend
    </td>
    <td>NPM, Postregres, VueJS
    </td>
@@ -91,19 +91,11 @@ Participants will be attending from 8 am to 5 pm pt. Your pod team is your home 
    </td>
   </tr>
   <tr>
-   <td>🔏 DevOps
+   <td>🔏 DevSecOps
    </td>
-   <td>YAML
+   <td>YAML, <a href="https://codeql.github.com/">CodeQL</a>
    </td>
-   <td><a href="https://github.com/features/actions">Actions</a>, <a href="https://www.heroku.com/continuous-integration">CI/CD Heroku</a>
-   </td>
-  </tr>
-  <tr>
-   <td>🏗 AppSec/Architecture
-   </td>
-   <td><a href="https://codeql.github.com/">CodeQL</a>, <a href="https://github.com/features/codespaces">Codespaces</a>
-   </td>
-   <td>[Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets), Permissions, [Dependabot](https://github.com/dependabot)
+   <td><a href="https://github.com/features/actions">Actions</a>, <a href="https://www.heroku.com/continuous-integration">CI/CD Heroku</a>, [Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets), Permissions, [Dependabot](https://github.com/dependabot)
    </td>
   </tr>
 </table>
