@@ -1,16 +1,15 @@
 ### Table of Contents
 Sign Up 
-   - As a coordinator: [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4)
-   - As a [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
+   - As a [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4], [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
    
 Story 
   - What are we solving
-  
+  - Challenge
 
 [How it will be built](#built)
-  - PTeams and Prizes
-  - Schedule for the Day 
+  - Teams and Prizes
   - Skillsets and Stack
+  - Schedule for the Day 
 [What are our Goals?](#dream)
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
