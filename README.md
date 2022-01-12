@@ -20,14 +20,19 @@ Sign Up
 # ProgramEquity Hackathon 
 ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
 
-[Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the Amplify platform to accomodate more than 40+ advocacy groups based in sustainability. 
-
-Sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
-
 https://user-images.githubusercontent.com/9143339/149073963-9e8960b2-7bc7-4058-90cc-6cd4d156785d.mp4
+
+
+
+[Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the Amplify platform to accomodate more than 40+ advocacy groups based in sustainability. 
 
 <p align="center">
 <img width="570" alt="Screen Shot 2022-01-11 at 9 45 09 PM" src="https://user-images.githubusercontent.com/9143339/149070951-063ed2a7-c895-443f-b384-a04c21e4ed6c.png">
+   
+Sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
+
+
+
 
 ## Challenge: 
 Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to the next level so its robust enough to go from supporting **~40 advocacy groups to hundreds** across civic rights and sustanability. 
@@ -246,7 +251,6 @@ Lunch
 </table>
 
 
-## Story
 
 
 <img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/149010727-8b773896-0925-42e3-81f8-2d4a6dd1b9d7.png">
@@ -261,32 +265,3 @@ Lunch
 
 
    
-
-ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changes because research focused on the constituent and forgot to consider the community the constituent was a part of. As a result, this open source initiative addresses solutions as ecosystems including the constituent, Advocacy experts, DevSecOps architects, and OSS maintainership lens as part of a Community Informed Design framework which extends beyond Human Centered design - the missing inigredient specified by [MIT Studies](https://mitgovlab.org/news/is-civic-tech-fulfilling-its-promise/)
-
-
-<p align="center">
-<img width="727" alt="Screen Shot 2022-01-11 at 9 54 42 PM" src="https://user-images.githubusercontent.com/9143339/149072221-26a47477-bf61-4873-8194-61a8dd66b76e.png">
-
-   
-
-
-The MIT study astutley observed that tech solutions must engage with the ecosystem before designing for solutions. Goals between CivTech, understanding of bureaucratic processes and leading by the impacted group leads to results that fall short of the vision is often due a lack of communication. [MIT GOVLAB]() 
-   
-
-
-
-
-
-### How we work together 
-
-
-
-### Community Informed Design Explained 
-   - Our **first layer** of defining the problem looks at the pain points of users (these workshops will be provided throughout the day)
-     - User advocacy research via [MERL ](https://merltech.org/)
-     - Data protection and compliance through [PII](https://www.red-gate.com/simple-talk/devops/data-privacy-and-protection/introduction-to-devops-security-privacy-and-compliance/)
-     - Person informed design via [TrueNorth](https://www.truenorthedi.com/how-we-work.html)
-   - Our **second layer** focuses on implementation and orchestrates things via a [DevSecOps workflow](https://github.com/learn/devops)
-   - Our **third layer** focuses on the sustainability and security of the project on open source through an [MVG framework ](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/)
-<img width="945" alt="Screen Shot 2022-01-08 at 1 40 47 PM" src="https://user-images.githubusercontent.com/9143339/149013653-1b6a6e8d-3935-4871-8007-2621ee43650c.png">
