@@ -203,6 +203,13 @@ Lunch
   <tr>
    <td><p style="text-align: right">
 <strong>12:45 </strong></p>
+   </td>
+   <td>Hack away: ramped and finishing milestones
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>12:45-5:00 pm</strong></p>
 
    </td>
    <td>Person Informed to Community Informed Design
