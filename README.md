@@ -18,7 +18,11 @@ Sign Up
 <img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
 
 # ProgramEquity Hackathon 
-ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action.
+ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
+
+Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the Amplify platform to accomodate more than 40+ advocacy groups based in sustainability. 
+
+Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
 
 https://user-images.githubusercontent.com/9143339/149073963-9e8960b2-7bc7-4058-90cc-6cd4d156785d.mp4
 
@@ -100,12 +104,150 @@ Participants will be attending from 8 am to 5 pm pt. Your pod team is your home 
 </table>
 </p>
 
+### Program Highlights 
+Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
+   
+ ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
+ 
+### Schedule Day of 
+<table>
+  <tr>
+   <td><strong>(all times in PT)</strong>
+   </td>
+   <td><strong>Main Events & </strong>
+<p>
+<strong>Community Workshops </strong>
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>8:00 am</strong></p>
+
+   </td>
+   <td> Welcome Keynote + Icebreaker
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>8:30 </strong></p>
+
+   </td>
+   <td> Team Workflows
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>9:00-12:00 </strong></p>
+
+   </td>
+   <td>  Hack away
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>9:00</strong></p>
+
+   </td>
+   <td>Land trust: Dularia
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>9:30 </strong></p>
+
+   </td>
+   <td>DJ
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>10:00</strong></p>
+
+   </td>
+   <td>Design Walkthrough: 
+<p>
+Introduce Advocacy Groups walk through design
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>10:30 </strong></p>
+
+   </td>
+   <td>Q&A from Design Enhancement
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>11:00</strong></p>
+
+   </td>
+   <td>Taiko
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>12:00-12:45</strong></p>
+
+   </td>
+   <td>Grounding exercise Spoken Word: Aja Monet
+<p>
+Lunch 
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>12:45 </strong></p>
+
+   </td>
+   <td>Person Informed to Community Informed Design
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>1:45</strong></p>
+
+   </td>
+   <td>Design Enhancement Group Decisions
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>2:00 </strong></p>
+
+   </td>
+   <td>Land trust: Parivar
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>3:00</strong></p>
+
+   </td>
+   <td> Land trust: Sogorea Te
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>4:00</strong></p>
+
+   </td>
+   <td> DJ
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>5:00</strong></p>
+
+   </td>
+   <td>Sonya Renee Taylor
+   </td>
+  </tr>
+</table>
 
 
 ## Story
-Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the Amplify platform to accomodate more than 40+ advocacy groups based in sustainability. 
 
-Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. This work is often led by advocacy groups who just like open source - rely on volunteer contributors. 
 
 <img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/149010727-8b773896-0925-42e3-81f8-2d4a6dd1b9d7.png">
 
@@ -114,14 +256,10 @@ Land acknowledgement is an important first step, the journey is to remember that
 
 <img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
 
-### Program Highlights 
-Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
-   
- ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
 
 
 
-**Prizes**
+
    
 
 ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changes because research focused on the constituent and forgot to consider the community the constituent was a part of. As a result, this open source initiative addresses solutions as ecosystems including the constituent, Advocacy experts, DevSecOps architects, and OSS maintainership lens as part of a Community Informed Design framework which extends beyond Human Centered design - the missing inigredient specified by [MIT Studies](https://mitgovlab.org/news/is-civic-tech-fulfilling-its-promise/)
