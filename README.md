@@ -23,17 +23,15 @@ ProgramEquity Hackathons are driven and designed through community dialogue thro
 https://user-images.githubusercontent.com/9143339/149073963-9e8960b2-7bc7-4058-90cc-6cd4d156785d.mp4
 
 ### What are we Solving
-Our goal is to digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks is designed to gather  has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design enhancement. If you'd like to explore workflows using your skillset: 
-
 <p align="center">
 <img width="570" alt="Screen Shot 2022-01-11 at 9 45 09 PM" src="https://user-images.githubusercontent.com/9143339/149070951-063ed2a7-c895-443f-b384-a04c21e4ed6c.png">
 
 ## Challenge: 
-
 Take the Amplify app to the next level so its robust enough to go from supporting ~40 advocacy groups to hundreds across civic rights and sustanability. You can choose to join either the ideation or implementation challenge. Ideation tracks will focus on discussions suggesting features based off of the advocacy research gathered by ProgramEquity. Implementation tracks will be able to get started on issues and tasks that are predefined. 
 
 ### Challenge Tracks
-   
+ <img width="982" alt="Screen Shot 2022-01-12 at 12 05 05 AM" src="https://user-images.githubusercontent.com/9143339/149088005-ad5d78eb-c1e0-4231-81f7-dc3b8708466d.png">
+
 ### Setting up teams 
 Participants will be attending from 8 am to 5 pm pt. Your pod team is your home base and your skillset support is a wider resource net.
 <img width="1114" alt="Screen Shot 2022-01-11 at 12 23 45 PM" src="https://user-images.githubusercontent.com/9143339/149078429-280ef07c-0292-45ce-892e-b19fddbacdfe.png">
