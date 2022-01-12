@@ -7,9 +7,8 @@ Story
   - Challenge
 
 [How it will be built](#built)
-  - Teams and Prizes
-  - Skillsets and Stack
-  - Schedule for the Day 
+  - Teams, Skillsets and Stack
+  - Schedule for the Day, Prizes
   
 [What are our Goals?](#dream)
 
