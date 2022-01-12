@@ -43,9 +43,8 @@ _You can choose to join either the ideation or implementation challenge._ **Idea
 ## How it will be built <a name="built"></a>
 ### Setting up teams 
 Participants will be attending from 8 am to 5 pm pt. Your pod team is your home base and your skillset support is a wider resource net.
-<img width="1114" alt="Screen Shot 2022-01-11 at 12 23 45 PM" src="https://user-images.githubusercontent.com/9143339/149078429-280ef07c-0292-45ce-892e-b19fddbacdfe.png">
+   <img width="1122" alt="Screen Shot 2022-01-12 at 12 26 03 AM" src="https://user-images.githubusercontent.com/9143339/149097349-00c54181-83e7-4efe-ab11-6e983b35f44d.png">
 
-   
 ### What are the skillsets and stack? <a name="skills"></a>
 <p align="center">
 <table>
