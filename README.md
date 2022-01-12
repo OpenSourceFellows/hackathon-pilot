@@ -29,7 +29,7 @@ Sign Up
 <img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
 
 ## Story
-Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient.
+Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. Our connection with our Earth is fostered through climated action and we're dedicating the day to evolving the Amplify platform to accomodate more than 40+ advocacy groups based in sustainability. 
 
 https://user-images.githubusercontent.com/9143339/149009550-2df99c70-9b54-4743-8585-2a1b60e89e53.mp4
 
