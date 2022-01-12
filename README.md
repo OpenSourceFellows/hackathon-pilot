@@ -2,12 +2,26 @@
 
 https://user-images.githubusercontent.com/9143339/149009550-2df99c70-9b54-4743-8585-2a1b60e89e53.mp4
 
+### ProgramEquity Hackathon
+Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient.
 
-# ProgramEquity Hackathon 
-Our goal is to build out a platform, called Amplify, that will help digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design ideation.
+Our goal is to digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks is designed to [add what the goal of the hackathon is here]
 
+<p align="center">
+<img width="628" alt="Screen Shot 2022-01-11 at 12 01 50 PM" src="https://user-images.githubusercontent.com/9143339/149012851-e91095a8-d563-4777-a61c-ae249b0a3a84.png">
+
+# What will you do at the hackathon
+
+The goal of the hackthon is to build out a platform, called Amplify, that will help digitally transform advocacy led by marginalized communities on Turtle Island. There are two challenge areas:
+- Ideation (add info her)
+- Implementation (work on Issues, add link here)
+
+# Hackathon Flow
+   
 Collaborate on familiar workflows you would at work but at a hackathon that brings the world together - ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours. 40 advocacy groups and Indigenous led land trusts. Unified climate action.
 <img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
+   
+   [add hackathon workflow here]
 
 ### Table of Contents
 Sign Up 
@@ -32,7 +46,6 @@ Sign Up
 <img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
 
 ## Story
-Indigenous people protect over 80% of the world's diversity, this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient.
 
 Land acknowledgement is an important first step, the journey is to remember that sustainability happens when we transform the dynamic of land belonging to us to how we can belong to the land we occupy. 
 
@@ -40,17 +53,13 @@ _In the 7th generation prophecy of Turtle island (now known as the United States
 
 <img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/149010727-8b773896-0925-42e3-81f8-2d4a6dd1b9d7.png">
 
-### What are we Solving
-Our goal is to digitally transform advocacy led by marginalized communities on Turtle Island. ProgramEquity Hacks is designed to gather  has gathered the specifications for the Amplify platform from over 40+ advocacy groups which participants will be evolving via implementation and design enhancement. If you'd like to explore workflows using your skillset: 
 
-<p align="center">
-<img width="628" alt="Screen Shot 2022-01-11 at 12 01 50 PM" src="https://user-images.githubusercontent.com/9143339/149012851-e91095a8-d563-4777-a61c-ae249b0a3a84.png">
 
 ### Program Highlights 
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lend of a community informed design framework. Full agenda attached iin team set up. 
    
- ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
-   
+<img width="594" alt="Screen Shot 2022-01-11 at 2 14 34 PM" src="https://user-images.githubusercontent.com/9143339/149029955-cd6bbfe2-0fb2-4084-88ba-de0d8934cd97.png">
+
 ## How it will be built <a name="built"></a>
 <img width="945" alt="Screen Shot 2022-01-08 at 1 40 47 PM" src="https://user-images.githubusercontent.com/9143339/149013653-1b6a6e8d-3935-4871-8007-2621ee43650c.png">
 
@@ -137,7 +146,7 @@ As a result, this open source initiative addresses solutions from the constituen
 </p>
 
 ### How we work together 
-Coordinators willl be there to support in 4 hour shifts. Participants will be participating from 8 am to 4 pm pt.
+Coordinators willl be there to support in 4 hour shifts. Participants will be participating from 8 am to 4 pm pt. ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
 
 
 **Pod Teams and Groups**
