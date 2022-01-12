@@ -1,10 +1,9 @@
 ### Table of Contents
-Sign Up 
-   - As a [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4), [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
+Sign Up as a [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4), [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
    
 Story 
-  - What are we solving
-  - Challenge
+  - [What are we solving](#story)
+  - [Challenge](#challenge)
 
 [How it will be built](#built)
   - Teams, Skillsets and Stack
@@ -15,7 +14,7 @@ Story
 
 <img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
 
-# ProgramEquity Hackathon 
+# ProgramEquity Hackathon <a name = "story"></a>
 ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
 
 https://user-images.githubusercontent.com/9143339/149073963-9e8960b2-7bc7-4058-90cc-6cd4d156785d.mp4
@@ -33,7 +32,7 @@ Sustainability happens when we transform the dynamic of land belonging to us to 
  
 
 
-## Challenge: 
+## Challenge: <a name = "challenge"></a>
 Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to the next level so its robust enough to go from supporting **~40 advocacy groups to hundreds** across civic rights and sustanability. 
    
 _You can choose to join either the ideation or implementation challenge._ **Ideation tracks** will focus on discussions suggesting features based off of the advocacy research gathered by ProgramEquity. **Implementation tracks** will be able to get started on issues and tasks that are predefined. 
