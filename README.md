@@ -138,7 +138,8 @@ As a result, this open source initiative addresses solutions from the constituen
 </p>
 
 ### How we work together 
-Coordinators willl be there to support in 4 hour shifts. Participants will be participating from 8 am to 4 pm pt. 
+Coordinators willl be there to support in 4 hour shifts. Participants will be participating from 8 am to 4 pm pt. ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
+
 
 **Pod Teams and Groups**
  <img width="1114" alt="Screen Shot 2022-01-11 at 12 23 45 PM" src="https://user-images.githubusercontent.com/9143339/149015895-011540da-9f9b-4ad7-8068-cdd1d2c8ad36.png">
