@@ -145,7 +145,7 @@ Participants will spend the day across multiple workshops led by DEI firms and l
 <strong>9:00-12:00 </strong></p>
 
    </td>
-   <td>  Hack away
+   <td>  Hack away: Set up and ramp
    </td>
   </tr>
   <tr>
