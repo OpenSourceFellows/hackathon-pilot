@@ -1,11 +1,3 @@
-<img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
-
-
-# ProgramEquity Hackathon 
-ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. Collaborate on familiar workflows you would at work but at a hackathon that brings the world together - 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action.
-
-**Challenge:** Take the Amplify app to the next level so its robust enough to go from supporting ~40 advocacy groups to hundreds across civic rights and sustanability. You can choose to join either the ideation or implementation challenge. Ideation tracks will focus on discussions suggesting features based off of the advocacy research gathered by ProgramEquity. Implementation tracks will be able to get started on issues and tasks that are predefined. 
-
 ### Table of Contents
 Sign Up 
    - As a coordinator: [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4)
@@ -22,10 +14,17 @@ Sign Up
   - Skillsets and Stack
   - Choose your track with your team 
 
-
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
-## What our goals? <a name="dream"></a>
+<img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
+
+# ProgramEquity Hackathon 
+ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. Collaborate on familiar workflows you would at work but at a hackathon that brings the world together - 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action.
+
+**Challenge:** Take the Amplify app to the next level so its robust enough to go from supporting ~40 advocacy groups to hundreds across civic rights and sustanability. You can choose to join either the ideation or implementation challenge. Ideation tracks will focus on discussions suggesting features based off of the advocacy research gathered by ProgramEquity. Implementation tracks will be able to get started on issues and tasks that are predefined. 
+
+
+## What are our goals? <a name="dream"></a>
 <img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
 
 <img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
