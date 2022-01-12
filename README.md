@@ -8,9 +8,8 @@ Story
 
 [How it will be built](#built)
   - Teams, Skillsets and Stack
-  - Schedule for the Day, Prizes
-  
-[What are our Goals?](#dream)
+  - Schedule for the Day
+  - [What are our Goals and prizes?](#dream)
 
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
