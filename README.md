@@ -3,16 +3,15 @@ Sign Up
    - As a coordinator: [mentor](https://github.com/ProgramEquity/hackathon-landing/issues/3), [support](https://github.com/ProgramEquity/hackathon-landing/issues/4)
    - As a [participant](https://forms.gle/vyTDGY7wYd5cmEmn7)
    
-[What are our Goals?](#dream)
-  - Story 
+Story 
   - What are we solving
-  - Schedule for the Day 
+  
 
 [How it will be built](#built)
-  - ProgramEquity Hacks Overview 
+  - PTeams and Prizes
+  - Schedule for the Day 
   - Skillsets and Stack
-  - Choose your track with your team 
-
+[What are our Goals?](#dream)
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
 
 <img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
