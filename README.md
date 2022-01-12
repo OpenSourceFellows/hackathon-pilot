@@ -142,13 +142,6 @@ Coordinators willl be there to support in 4 hour shifts. Participants will be pa
 **Pod Teams and Groups**
  <img width="1114" alt="Screen Shot 2022-01-11 at 12 23 45 PM" src="https://user-images.githubusercontent.com/9143339/149015895-011540da-9f9b-4ad7-8068-cdd1d2c8ad36.png">
 
-**Choose a Track with your team**
+**Challenges:**
 
-During the hackathon, after pod team set up - you can collectively decide which track you would like to participate within the hackathon: implementation or improvement 
-
-_Implementation_: 
-There will be issues and tasks that are written out and scoped starting from 'good first issue' to intermediate across the different skillsets 
-
-_Improvement_: 
-Use your critical thinking and design skills to suggest code changes, buildsafes, and even architectural design
-
+**Prizes**
