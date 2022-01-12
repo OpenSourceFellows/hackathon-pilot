@@ -6,8 +6,8 @@ Story
   - [Challenge](#challenge)
 
 [How it will be built](#built)
-  - Teams, Skillsets and Stack
-  - Schedule for the Day
+  - [Teams, Skillsets and Stack](#stack)
+  - [Schedule for the Day](#sched)
   - [What are our Goals and prizes?](#dream)
 
 [FAQ ](https://github.com/ProgramEquity/hackathon-landing/issues/5)
@@ -106,7 +106,7 @@ Participants will be attending from 8 am to 5 pm pt. Your pod team is your home 
 </table>
 </p>
 
-### Program Highlights 
+### Program Highlights <a name = "sched"></a>
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
    
  ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
