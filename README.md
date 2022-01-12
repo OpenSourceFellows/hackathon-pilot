@@ -28,8 +28,7 @@ https://user-images.githubusercontent.com/9143339/149073963-9e8960b2-7bc7-4058-9
 ## Challenge: 
 Take the Amplify app to the next level so its robust enough to go from supporting ~40 advocacy groups to hundreds across civic rights and sustanability. You can choose to join either the ideation or implementation challenge. Ideation tracks will focus on discussions suggesting features based off of the advocacy research gathered by ProgramEquity. Implementation tracks will be able to get started on issues and tasks that are predefined. 
 
-### Challenge Tracks
- <img width="982" alt="Screen Shot 2022-01-12 at 12 05 05 AM" src="https://user-images.githubusercontent.com/9143339/149088005-ad5d78eb-c1e0-4231-81f7-dc3b8708466d.png">
+<img width="982" alt="Screen Shot 2022-01-12 at 12 05 05 AM" src="https://user-images.githubusercontent.com/9143339/149088005-ad5d78eb-c1e0-4231-81f7-dc3b8708466d.png">
 
 ### Setting up teams 
 Participants will be attending from 8 am to 5 pm pt. Your pod team is your home base and your skillset support is a wider resource net.
