@@ -1,5 +1,15 @@
 
+
+
+
 ## Story
+
+We lean into the 7th Generation Prophecy by the Inidgenous First Nations Anishinaabe tribes: 
+_In the 7th generation prophecy of Turtle island, we will be given a choice. By the light of the Seventh Fire come the Ogichidaag', those who would use their power and strength with wisdom and gentleness to bring harmony and balance. They will soar with wabishkie ginu', the White Eagle, bringing the wisdom of Spirit with the first light of day. They will learn of their power and strength like the gidzhii makwa' the Great Bear who holds ice and snow in the North so the Earth would not be covered with water. And they will open their mind and heart like makinaak' the turtle who offered his back upon which to build a new earth._
+
+
+https://user-images.githubusercontent.com/9143339/149375273-ce0f0b9f-1c07-417f-b2a7-cea488e552d6.mp4
+
 ProgramEquity Hacks brings the community informed design to an open source workflow. When designing for marginalized communities, we found that past attempts at civic engagement were found to have created insignificant changes because research focused on the constituent and forgot to consider the community the constituent was a part of. As a result, this open source initiative addresses solutions as ecosystems including the constituent, Advocacy experts, DevSecOps architects, and OSS maintainership lens as part of a Community Informed Design framework which extends beyond Human Centered design - the missing inigredient specified by [MIT Studies](https://mitgovlab.org/news/is-civic-tech-fulfilling-its-promise/)
 
 
