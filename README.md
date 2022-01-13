@@ -17,8 +17,7 @@ Story
 # ProgramEquity Hackathon <a name = "story"></a>
 ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
 
-https://user-images.githubusercontent.com/9143339/149073963-9e8960b2-7bc7-4058-90cc-6cd4d156785d.mp4
-
+https://user-images.githubusercontent.com/9143339/149373941-0cb553e6-c6d8-4905-8436-35506d448aec.mp4
 
 
 [Indigenous people protect over 80% of the world's diversity](https://www.nationalgeographic.com/environment/article/can-indigenous-land-stewardship-protect-biodiversity-), this hackathon is an opening conversation for us to start understanding our relationship with our earth and the very ground we stand on today as sentient. 
