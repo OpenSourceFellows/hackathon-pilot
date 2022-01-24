@@ -16,7 +16,7 @@ Story
 
 # ProgramEquity Hackathon <a name = "story"></a>
 ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
-This hackathon pilot will be held on Februaryy 10th from 8am-2 pm PT. 
+This hackathon pilot will be held on February 10th from 8am-2 pm PT. 
 
 https://user-images.githubusercontent.com/9143339/149373941-0cb553e6-c6d8-4905-8436-35506d448aec.mp4
 
@@ -35,9 +35,8 @@ Sustainability happens when we transform the dynamic of land belonging to us to 
 ## Challenge: <a name = "challenge"></a>
 Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/main/AmplifyApp.md) to the next level so its robust enough to go from supporting **~40 advocacy groups to hundreds** across civic rights and sustanability. 
    
-_You can choose to join either the ideation or implementation challenge._ **Ideation tracks** will focus on discussions suggesting features based off of the advocacy research gathered by ProgramEquity. **Implementation tracks** will be able to get started on issues and tasks that are predefined. 
 
-<img width="982" alt="Screen Shot 2022-01-12 at 12 05 05 AM" src="https://user-images.githubusercontent.com/9143339/149088005-ad5d78eb-c1e0-4231-81f7-dc3b8708466d.png">
+<img width="994" alt="Screen Shot 2022-01-24 at 10 00 03 AM" src="https://user-images.githubusercontent.com/9143339/150838524-2257fc04-2293-4e48-ae95-eab6d005c397.png">
 
 ## How it will be built <a name="built"></a>
 ### Setting up teams 
@@ -115,7 +114,9 @@ Participants will spend the day across multiple workshops led by DEI firms and l
 
 ### Schedule Day of 
 
-<p align="center">
+Hackathon will be held virtually on Microsoft Teams. Here is your schedule based on the track you’re participating in: 
+
+
 <table>
   <tr>
    <td><strong>(all times in PT)</strong>
@@ -131,6 +132,8 @@ Participants will spend the day across multiple workshops led by DEI firms and l
 
    </td>
    <td> Welcome Keynote + Icebreaker
+<p>
+Ron Stubblefield
    </td>
   </tr>
   <tr>
@@ -143,10 +146,10 @@ Participants will spend the day across multiple workshops led by DEI firms and l
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>9:00-12:00 </strong></p>
+<strong>9:00-1:30 </strong></p>
 
    </td>
-   <td>  Hack away: Set up and ramp
+   <td>  Hack away
    </td>
   </tr>
   <tr>
@@ -185,35 +188,26 @@ Introduce Advocacy Groups walk through design
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>11:00</strong></p>
+<strong>12:00-12:15</strong></p>
 
    </td>
-   <td>Taiko
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>12:00-12:45</strong></p>
-
-   </td>
-   <td>Grounding exercise Spoken Word: Aja Monet
-<p>
-Lunch 
+   <td>Grounding exercise
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
 <strong>12:45 </strong></p>
+
    </td>
-   <td>Hack away: ramped and finishing milestones
+   <td>Sabrina Cooper
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>12:45-5:00 pm</strong></p>
+<strong>1:15</strong></p>
 
    </td>
-   <td>Person Informed to Community Informed Design
+   <td>Lonny Avi Brooks
    </td>
   </tr>
   <tr>
@@ -221,39 +215,7 @@ Lunch
 <strong>1:45</strong></p>
 
    </td>
-   <td>Design Enhancement Group Decisions
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>2:00 </strong></p>
-
-   </td>
-   <td>Land trust: Parivar
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>3:00</strong></p>
-
-   </td>
-   <td> Land trust: Sogorea Te
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>4:00</strong></p>
-
-   </td>
-   <td> DJ
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>5:00</strong></p>
-
-   </td>
-   <td>Sonya Renee Taylor
+   <td>Conclusion Keynote
    </td>
   </tr>
 </table>
