@@ -15,8 +15,8 @@ Story
 <img width="934" alt="Screen Shot 2022-01-11 at 10 40 52 AM" src="https://user-images.githubusercontent.com/9143339/149002380-7f4f34e8-073d-4e68-92b5-b60c48d16535.png">
 
 # ProgramEquity Hackathon <a name = "story"></a>
-ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 9 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
-
+ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
+This hackathon pilot will be held on Februaryy 10th from 8am-2 pm PT. 
 https://user-images.githubusercontent.com/9143339/149373941-0cb553e6-c6d8-4905-8436-35506d448aec.mp4
 
 
@@ -108,8 +108,8 @@ Participants will be attending from 8 am to 5 pm pt. Your pod team is your home 
 ### Program Highlights <a name = "sched"></a>
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
    
- ![my-visual_57379715](https://user-images.githubusercontent.com/42981589/149043578-bda47fa0-b9a3-4c75-84c8-3b0c539b7dd1.png)
 
+<img width="663" alt="Screen Shot 2022-01-24 at 9 44 02 AM" src="https://user-images.githubusercontent.com/9143339/150836181-2c96141d-07e3-470c-a5c6-efcee6c6b217.png">
 
 ### Schedule Day of 
 
@@ -259,12 +259,12 @@ Lunch
 </p>
 
 ## What are our goals? <a name="dream"></a>
-<img width="1403" alt="Screen Shot 2022-01-11 at 12 11 23 PM" src="https://user-images.githubusercontent.com/9143339/149014160-d58e2a73-969a-49fa-ae8f-1734b19d1832.png">
 
 <img width="1311" alt="Screen Shot 2022-01-11 at 7 32 01 PM" src="https://user-images.githubusercontent.com/9143339/149059155-5c3e5854-0d71-454d-867b-5e5e06598731.png">
 
 
 
 
+<img width="931" alt="Screen Shot 2022-01-11 at 10 41 10 AM" src="https://user-images.githubusercontent.com/9143339/150836356-cc566973-0baa-4443-a884-2127938c64fe.png">
 
    
