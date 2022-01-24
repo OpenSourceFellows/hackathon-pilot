@@ -17,6 +17,7 @@ Story
 # ProgramEquity Hackathon <a name = "story"></a>
 ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
 This hackathon pilot will be held on Februaryy 10th from 8am-2 pm PT. 
+
 https://user-images.githubusercontent.com/9143339/149373941-0cb553e6-c6d8-4905-8436-35506d448aec.mp4
 
 
@@ -41,6 +42,7 @@ _You can choose to join either the ideation or implementation challenge._ **Idea
 ## How it will be built <a name="built"></a>
 ### Setting up teams 
 Participants will be attending from 8 am to 5 pm pt. Your pod team is your home base and your skillset support is a wider resource net.
+   
    <img width="1122" alt="Screen Shot 2022-01-12 at 12 26 03 AM" src="https://user-images.githubusercontent.com/9143339/149097349-00c54181-83e7-4efe-ab11-6e983b35f44d.png">
 
 ### What are the skillsets and stack? <a name="skills"></a>
