@@ -15,8 +15,8 @@ Story
 This hackathon pilot will be held on February 10th from **8am-2 pm PT**
 <img width="649" alt="Screen Shot 2022-01-24 at 10 13 48 AM" src="https://user-images.githubusercontent.com/9143339/150840354-118ba24f-3be9-40b7-94b4-339becca8249.png">
 
-# ProgramEquity Hackathon <a name = "story"></a>
-ProgramEquity Hackathons are driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
+# ProgramEquity Hacks <a name = "story"></a>
+ProgramEquity Hacks are driven and designed through community dialogue through skillbased volunteer workflows. 5 hours, 40 advocacy groups and Indigenous led land trusts, unified climate action. 
 
 https://user-images.githubusercontent.com/9143339/149373941-0cb553e6-c6d8-4905-8436-35506d448aec.mp4
 
