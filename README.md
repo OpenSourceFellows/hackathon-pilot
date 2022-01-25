@@ -1,5 +1,5 @@
 ### Table of Contents
-Sign Up as a [leads](https://docs.google.com/forms/d/15Pzwar_tct5Zpan2nW3iTNuRFqi1Juk2jm6p8zCZs8c/edit), [participant](https://forms.gle/RMS6Q18xQVUkCHS56)
+Sign Up as a [leads](https://docs.google.com/forms/d/15Pzwar_tct5Zpan2nW3iTNuRFqi1Juk2jm6p8zCZs8c/edit), [participant](https://docs.google.com/forms/d/1TQdKBon_KtmPDx6IUTtknSkWvNcn9VUNnPzK7DBNquQ/edit)
    
 Story 
   - [What are we solving](#story)
