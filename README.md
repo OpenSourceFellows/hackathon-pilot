@@ -82,7 +82,7 @@ Participants will be attending from 8 am to 5 pm pt. Your pod team is your home 
   <tr>
    <td>🗂 Backend
    </td>
-   <td>NPM, Postregres, VueJS
+   <td>Node, Postregres, VueJS
    </td>
    <td>GitHub flow, ORM, Knex
    </td>
