@@ -40,9 +40,9 @@ Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/m
 
 ## How it will be built <a name="built"></a>
 ### Setting up teams 
-Participants will be attending from 8 am to 5 pm pt. Your pod team is your home base and your skillset support is a wider resource net.
-   
-   <img width="1122" alt="Screen Shot 2022-01-12 at 12 26 03 AM" src="https://user-images.githubusercontent.com/9143339/149097349-00c54181-83e7-4efe-ab11-6e983b35f44d.png">
+Participants will be attending from 8 am to 2 pm pt. Your pod team is your home base and your skillset support is a wider resource net.
+ <img width="754" alt="Screen Shot 2022-01-31 at 10 28 10 AM" src="https://user-images.githubusercontent.com/9143339/152202531-8e9eb9c6-ef98-4b7b-b551-37de760a4fad.png">
+
 
 ### What are the skillsets and stack? <a name="skills"></a>
 <p align="center">
