@@ -114,111 +114,117 @@ Participants will spend the day across multiple workshops led by DEI firms and l
 
 ### Schedule Day of 
 
-Hackathon will be held virtually on Microsoft Teams. Here is your schedule based on the track you’re participating in: 
+Hackathon will be held virtually on Zoom. Here is your schedule based on the track you’re participating in: 
 
 
 <table>
   <tr>
-   <td><strong>(all times in PT)</strong>
-   </td>
    <td><strong>Main Events & </strong>
 <p>
 <strong>Community Workshops </strong>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>8:00 am</strong></p>
-
-   </td>
-   <td> Welcome Keynote + Icebreaker
 <p>
-Ron Stubblefield
+<strong>(all times in PT)</strong>
+   </td>
+   <td><strong>Participants </strong>
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>8:30 </strong></p>
+<strong>8:00: Welcome LT Keynote + Icebreaker</strong></p>
 
    </td>
-   <td> Team Workflows
+   <td>Intro to the heart of open source and culture. Form teams And team name through a DEI ice breaker.
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>9:00-1:30 </strong></p>
+<strong>8:30 Team Workflows </strong></p>
 
    </td>
-   <td>  Hack away
+   <td>Understand contribution workflows and spaces for support via project boards and implementation issues
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>9:00</strong></p>
+<strong>9:00-1:30  Hack away</strong></p>
+
+<p>
+<p style="text-align: right">
+<strong> </strong></p>
 
    </td>
-   <td>Land trust: Dularia
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>9:30 </strong></p>
-
-   </td>
-   <td>DJ
+   <td>Participants are ramping on workflows and reading documentation (Follow onboarding issue)
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
 <strong>10:00</strong></p>
 
-   </td>
-   <td>Design Walkthrough: 
 <p>
-Introduce Advocacy Groups walk through design
+<p style="text-align: right">
+<strong>Design Walkthrough: </strong></p>
+
+<p>
+<p style="text-align: right">
+<strong>Introduce Advocacy Groups </strong></p>
+
+   </td>
+   <td>Advocacy groups AAAJ and Sunrise walk through community informed design and the stories that led up to Amplify
+<p>
+Skillsets of UI/UX Design and fullstack strongly encouraged to attend
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
 <strong>10:30 </strong></p>
 
+<p>
+<p style="text-align: right">
+<strong>Q&A from Design Walkthrough</strong></p>
+
+<p>
+<strong> </strong>
    </td>
-   <td>Q&A from Design Enhancement
+   <td>Chance to review implementation build safes and testing. Continue ramping through intermediate
+<p>
+ level issues 
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>12:00-12:15</strong></p>
+<strong>12:30-1:00 </strong></p>
+
+<p>
+<p style="text-align: right">
+<strong>The Why: Person Informed to Community Impact</strong></p>
 
    </td>
-   <td>Grounding exercise
+   <td>Seema Patel, UC Berkeley Law Professor lectures on ideations for the change we’re embarking on with community informed design
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>12:45 </strong></p>
+<strong>1:00-1:30 Land Trust Fireside Chat</strong></p>
 
    </td>
-   <td>Sabrina Cooper
+   <td>Green within - the dreams we dream with Black and Indigenous owned Land Trusts with Lizzie and Filmmaker Sabrina Cooper
    </td>
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>1:15</strong></p>
+<strong>1:30</strong></p>
+
+<p>
+<p style="text-align: right">
+<strong>Conclusion Keynote</strong></p>
 
    </td>
-   <td>Lonny Avi Brooks
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>1:45</strong></p>
-
-   </td>
-   <td>Conclusion Keynote
+   <td>Ending Keynote. Takeaways board activity. Tabulate how much we raised! 
    </td>
   </tr>
 </table>
+
+
 
 </p>
 
