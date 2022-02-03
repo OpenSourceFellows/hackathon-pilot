@@ -5,7 +5,7 @@ Story
   - [What are we solving](#story)
   - [Challenge](#challenge)
 
-[How it will be built](#built)
+[How it will be](#built)
   - [Teams, Skillsets and Stack](#stack)
   - [Schedule for the Day](#sched)
   - [What are our Goals and prizes?](#dream)
@@ -38,11 +38,11 @@ Take the [Amplify app](https://github.com/ProgramEquity/hackathon-landing/blob/m
 
 <img width="994" alt="Screen Shot 2022-01-24 at 10 00 03 AM" src="https://user-images.githubusercontent.com/9143339/150838524-2257fc04-2293-4e48-ae95-eab6d005c397.png">
 
-## How it will be built <a name="built"></a>
+## How it will be built <a name="built">
+
 ### Setting up teams 
 Participants will be attending from 8 am to 2 pm pt. Your pod team is your home base and your skillset support is a wider resource net.
- <img width="754" alt="Screen Shot 2022-01-31 at 10 28 10 AM" src="https://user-images.githubusercontent.com/9143339/152202531-8e9eb9c6-ef98-4b7b-b551-37de760a4fad.png">
-
+</a><img width="647" alt="Screen Shot 2022-02-02 at 7 57 52 AM" src="https://user-images.githubusercontent.com/9143339/152385305-bf264cc8-fdb2-4533-b120-7e6776529dab.png">
 
 ### What are the skillsets and stack? <a name="skills"></a>
 <p align="center">
