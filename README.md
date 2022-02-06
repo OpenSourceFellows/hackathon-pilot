@@ -109,8 +109,8 @@ Participants will be attending from 8 am to 2 pm pt. Your pod team is your home 
 ### Program Highlights <a name = "sched"></a>
 Participants will spend the day across multiple workshops led by DEI firms and land trusts as we put on the lens of a community informed design framework. 
    
+<img width="1490" alt="Screen Shot 2022-02-03 at 5 58 12 AM" src="https://user-images.githubusercontent.com/9143339/152695001-61b3b2a6-c2d8-49a8-a69b-1cbb4150d1b9.png">
 
-<img width="663" alt="Screen Shot 2022-01-24 at 9 44 02 AM" src="https://user-images.githubusercontent.com/9143339/150836181-2c96141d-07e3-470c-a5c6-efcee6c6b217.png">
 
 ### Schedule Day of 
 
